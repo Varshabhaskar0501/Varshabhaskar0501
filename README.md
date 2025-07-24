@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there, I'm Varsha!
 
-<!--
-**Varshabhaskar0501/Varshabhaskar0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing an Integrated M.Sc. in **Computational Statistics and Data Analytics** at VIT.
 
-Here are some ideas to get you started:
+🔍 I'm passionate about:
+- Data Analysis & Visualization
+- Machine Learning & Deep Learning
+- Natural Language Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**
+- **Languages:** Python, R, SQL, MATLAB
+- **ML/DL:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **NLP:** BERT, Word2Vec, TF-IDF
+- **Visualization:** Power BI, Tableau, Excel
+
+📚 **Certifications:**
+- Deloitte Data Analytics Virtual Internship
+- Nicrosoft Power BI Bootcamp (Udemy)
+- Statistics for Data Science using R
+- Python Complete Course for Beginners
+
+🚀 **Currently Exploring:** Spark, Hadoop, Advanced ML Pipelines
+
+📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VarshaBhaskar05-blue?logo=linkedin)](https://www.linkedin.com/in/varshabhaskar05)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
