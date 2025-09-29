@@ -10,7 +10,7 @@
 🛠️ **Tech Stack:**
 - **Languages:** Python, R, SQL, MATLAB
 - **Visualization:** Power BI, Excel
-
+ 
 📚 **Certifications:**
 - Deloitte Data Analytics Virtual Internship
 - Nicrosoft Power BI Bootcamp (Udemy)
