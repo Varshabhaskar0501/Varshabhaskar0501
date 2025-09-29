@@ -9,9 +9,7 @@
 
 🛠️ **Tech Stack:**
 - **Languages:** Python, R, SQL, MATLAB
-- **ML/DL:** TensorFlow, PyTorch, Scikit-learn, Keras
-- **NLP:** BERT, Word2Vec, TF-IDF
-- **Visualization:** Power BI, Tableau, Excel
+- **Visualization:** Power BI, Excel
 
 📚 **Certifications:**
 - Deloitte Data Analytics Virtual Internship
