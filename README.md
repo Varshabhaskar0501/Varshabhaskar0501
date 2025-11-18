@@ -8,7 +8,7 @@
 - Natural Language Processing
 
 🛠️ **Tech Stack:**
-- **Languages:** Python, R, SQL, MATLAB
+- **Languages:** Python, R, SQL
 - **Visualization:** Power BI, Excel
  
 📚 **Certifications:**
